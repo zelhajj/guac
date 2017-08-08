@@ -2,3 +2,5 @@
 salt
 1/2 onion
 cilantro
+pepper
+1/2 tomato
